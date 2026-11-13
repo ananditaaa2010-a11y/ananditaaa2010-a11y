@@ -244,7 +244,7 @@
     <!-- Tag 3: Location -->
     <g transform="translate(230, 0)">
       <rect x="-85" y="0" width="170" height="26" rx="13" fill="#ffffff" stroke="#2e1065" stroke-width="2" filter="drop-shadow(0 2.5px 0 #2e1065)" />
-      <text x="0" y="17" class="text-sub" font-size="10" font-weight="800" fill="#2e1065" text-anchor="middle">MALANG, INDONESIA</text>
+      <text x="0" y="17" class="text-sub" font-size="10" font-weight="800" fill="#2e1065" text-anchor="middle">BLITAR, INDONESIA</text>
     </g>
   </g>
 
